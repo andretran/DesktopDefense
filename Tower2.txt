@@ -1,0 +1,79 @@
+6 - Number of Towers
+
+Tower 1:
+10	- tx
+8	- ty
+5	- tcx
+6	- tcy
+1	- spin (Y/N)
+60	- range
+12	- cannon length
+3	- Cannon type: Air/Ground/Both 
+1200	- delay
+10	- damage
+5	- money cost
+
+Tower2:
+8
+6
+7
+7
+1
+80
+17
+3
+960
+5
+15
+
+Tower3:
+10
+9
+4
+5
+1
+50
+15
+3
+2000
+10
+50
+
+Tower4:
+6
+7
+8
+7
+1
+50
+8
+1
+2000
+8
+20
+
+Tower5:
+6
+6
+8
+8
+0
+40
+0
+1
+500
+60
+100
+
+Tower6:
+8
+6
+6
+8
+0
+60
+0
+2
+1000
+20
+50

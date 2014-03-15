@@ -1,0 +1,26 @@
+6 - number of monsters
+
+Monster1
+20		- hp
+10		- speed
+
+Monster2
+30
+10
+
+Monster3
+50
+10
+
+Monster4
+60
+10
+
+Monster5
+60
+15
+
+Monster6
+40
+10
+
