@@ -1,5 +1,5 @@
 
-GeoEvasion-Java 
+DesktopDefense 
 ===============
 ![alt tag](https://raw.github.com/andretran/DesktopDefense/master/DesktopDefenseScreenshot.png)
 
