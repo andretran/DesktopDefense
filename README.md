@@ -1,6 +1,6 @@
 
-DesktopDefense 
-===============
+Desktop Defense (Java)
+======================
 ![alt tag](https://raw.github.com/andretran/DesktopDefense/master/DesktopDefenseScreenshot.png)
 
 Project Information
