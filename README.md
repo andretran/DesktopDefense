@@ -5,7 +5,7 @@ Desktop Defense (Java)
 
 Project Information
 -------------------
-This is a recreation of a tower defense game known as "Desktop Defense" (written in Java).
+This is a re-creation of a tower defense game known as "Desktop Defense" (written in Java).
 
 I made this program as my final project for a CS class I took in grade 12.
 
